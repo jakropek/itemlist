@@ -1,14 +1,14 @@
 # Tabs
-items_tab: 'Items'
-events_tab: 'Events'
-traits_tab: 'Traits'
-animals_tab: 'Animals'
-weapons_tab: 'Weapons'
+items_tab: 'Przedmioty'
+events_tab: 'Wydarzenia'
+traits_tab: 'Cechy'
+animals_tab: 'Zwierzęta'
+weapons_tab: 'Bronie'
 pawn_kinds_tab: 'Pawn Kinds'
 
 # Table headers
 mod_name_header: Mod Name
-author_header: Author
+author_header: Autor
 version_header: Version
 command_name_header: Command Name
 user_level_header: User Level
@@ -24,27 +24,27 @@ name_header: Name
 no_commands: 'These are not the commands you are looking for.'
 
 # Redirect messages
-see_traits: 'See prices in the traits section'
+see_traits: 'Zobacz cenę w sekcji cech'
 see_kinds: 'See prices in the pawn kinds section'
-see_items: 'See prices in the items section'
+see_items: 'Zobacz cenę w sekcji przedmiotów'
 
 # Search texts
-search_items: 'Search for items...'
-search_traits: 'Search for traits...'
+search_items: 'Szukaj przedmiotu...'
+search_traits: 'Szukaj cechy...'
 search_pawn_kinds: 'Search for pawn kinds...'
-search_mods: 'Search for mods...'
-search_commands: 'Search for commands...'
-search_animals: 'Search for animals...'
-search_events: 'Search for events...'
-search_weapons: 'Search for weapons...'
+search_mods: 'Szukaj moda...'
+search_commands: 'Szukaj polecenia...'
+search_animals: 'Szukaj zwierząt...'
+search_events: 'Szukaj wydarzenia...'
+search_weapons: 'Szukaj bronie...'
 
 # Metadata
-usage: 'Usage: %s'
-shortcut: 'This is a shortcut for %s'
+usage: 'Użycie: %s'
+shortcut: 'To jest skrót do %s'
 stats: 'Stats'
 conflicts_with: 'Conflicts with'
-from: 'From %s'
-weight: 'Weight'
+from: 'Od %s'
+weight: 'Waga'
 limit: 'Limit'
 karma: 'Karma'
 bypasses_limit: 'This trait may exceed the trait limit'
