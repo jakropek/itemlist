@@ -1868,7 +1868,7 @@
       },
       "description": "Najzwyklejszy człowiek, w większości niezmodyfikowany przez inżynierię genów i przeważnie niezmieniony przez ewolucyjne naciski na pozaziemskich planetach.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "Człowiek",
       "price": 2917
     }

@@ -5968,31 +5968,31 @@
       "abr": "haulingbot",
       "category": "Animal",
       "defname": "AIRobot_Hauler",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "haulingbot",
       "category": "Animal",
       "defname": "AIRobot_Hauler_II",
-      "price": 13333
+      "price": -10
     },
     {
       "abr": "haulingbot",
       "category": "Animal",
       "defname": "AIRobot_Hauler_III",
-      "price": 26667
+      "price": -10
     },
     {
       "abr": "haulingbot",
       "category": "Animal",
       "defname": "AIRobot_Hauler_IV",
-      "price": 58333
+      "price": -10
     },
     {
       "abr": "haulingbot",
       "category": "Animal",
       "defname": "AIRobot_Hauler_V",
-      "price": 83333
+      "price": -10
     },
     {
       "abr": "cleaningbot",
@@ -6118,61 +6118,61 @@
       "abr": "kitchenbot",
       "category": "Animal",
       "defname": "RPP_Bot_Kitchen_I",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "kitchenbot",
       "category": "Animal",
       "defname": "RPP_Bot_Kitchen_II",
-      "price": 13333
+      "price": -10
     },
     {
       "abr": "kitchenbot",
       "category": "Animal",
       "defname": "RPP_Bot_Kitchen_III",
-      "price": 26667
+      "price": -10
     },
     {
       "abr": "kitchenbot",
       "category": "Animal",
       "defname": "RPP_Bot_Kitchen_IV",
-      "price": 58333
+      "price": -10
     },
     {
       "abr": "kitchenbot",
       "category": "Animal",
       "defname": "RPP_Bot_Kitchen_V",
-      "price": 83333
+      "price": -10
     },
     {
       "abr": "omnibot",
       "category": "Animal",
       "defname": "RPP_Bot_Omni_I",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "omnibot",
       "category": "Animal",
       "defname": "RPP_Bot_Omni_II",
-      "price": 13333
+      "price": -10
     },
     {
       "abr": "omnibot",
       "category": "Animal",
       "defname": "RPP_Bot_Omni_III",
-      "price": 26667
+      "price": -10
     },
     {
       "abr": "omnibot",
       "category": "Animal",
       "defname": "RPP_Bot_Omni_IV",
-      "price": 58333
+      "price": -10
     },
     {
       "abr": "omnibot",
       "category": "Animal",
       "defname": "RPP_Bot_Omni_V",
-      "price": 83333
+      "price": -10
     },
     {
       "abr": "roboticsworkbench",

@@ -210,7 +210,7 @@
     },
     "description": null,
     "name": "Join queue",
-    "usage": "!joinqueue",
+    "usage": "!kolonista",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "JoinQueue"
@@ -714,7 +714,7 @@
     },
     "description": "Shows your current stats within a given category.",
     "name": "Viewer stats",
-    "usage": "!mypawnstats [stat1] [stat2]",
+    "usage": "!mojestaty [stat1] [stat2]",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnStats"
@@ -1222,5 +1222,23 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "HelloWorld"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitAddon - More Stuff"
+    },
+    "description": null,
+    "name": "Clean the Map",
+    "usage": "!cleanup",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "cleanup"
   }
 ]
