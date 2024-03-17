@@ -11,7 +11,7 @@ mod_name_header: Mod Name
 author_header: Autor
 version_header: Version
 command_name_header: Nazwa komendy
-user_level_header: User Level
+user_level_header: Poziom użytkownika
 description_header: Opis
 cost_header: Cena
 category_header: Kategoria
