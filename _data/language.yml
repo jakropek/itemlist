@@ -10,18 +10,18 @@ pawn_kinds_tab: 'Pawn Kinds'
 mod_name_header: Mod Name
 author_header: Autor
 version_header: Version
-command_name_header: Command Name
+command_name_header: Nazwa komendy
 user_level_header: User Level
-description_header: Description
-cost_header: Cost
-category_header: Category
+description_header: Opis
+cost_header: Cena
+category_header: Kategoria
 karma_type_header: Karma Type
 add_cost_header: Add Cost
 remove_cost_header: Remove Cost
-name_header: Name
+name_header: Nazwa
 
 # Error messages
-no_commands: 'These are not the commands you are looking for.'
+no_commands: 'Nie znaleziono komendy, której szukasz.'
 
 # Redirect messages
 see_traits: 'Zobacz cenę w sekcji cech'
@@ -43,7 +43,7 @@ usage: 'Użycie: %s'
 shortcut: 'To jest skrót do %s'
 stats: 'Stats'
 conflicts_with: 'Conflicts with'
-from: 'Od %s'
+from: 'Z moda %s'
 weight: 'Waga'
 limit: 'Limit'
 karma: 'Karma'
